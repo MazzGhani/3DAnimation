@@ -3,3 +3,24 @@ canvas {
   top: 0;
   left: 0;
 }
+
+h1{
+  color: white;
+  font-size: 60px;
+  position: absolute;
+}
+
+
+
+body {
+  overflow-x: hidden;
+  margin: 0px;
+  font-family: monospace;
+  color: white;
+}
+
+.p{
+  color: white;
+  font-size: 600px;
+  position: absolute;
+}
